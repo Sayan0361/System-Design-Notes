@@ -8,6 +8,7 @@ A comprehensive learning resource for mastering system design concepts, based on
 
 - **PDF 1 - System Design Basics**: [PDF](https://drive.google.com/file/d/1REO_g5y2cLhSwybJMgndr6oxfIPw5v0a/view?usp=drive_link) | [Video](https://youtu.be/lFeYU31TnQ8?si=EDKo5nSMmyjDBQ2C)
 - **PDF 2 - Serverless Architecture & AWS Essentials**: [PDF](https://drive.google.com/file/d/1czBArleFVMBDlWQKowanhi4Cbu70am37/view?usp=sharing) | [Video](https://youtu.be/YuB3OuF3MUE?si=6vtzT--l-7PBP5Sz)
+- **PDF 3 - Docker Essentials**: [PDF](https://drive.google.com/file/d/1iTNtBC_vUW5ip3SZYyKXd8WKUtMzPukF/view?usp=sharing) | [Video](https://youtu.be/31k6AtW-b3Y?si=8IYaSbhaCsTAhFkb)
 
 ---
 
@@ -34,6 +35,20 @@ A comprehensive learning resource for mastering system design concepts, based on
 - Virtualization, Containerization & Orchestration
 - Cloud Computing Basics
 - AWS Essentials
+
+### PDF 3: Docker Essentials
+
+- Virtualization and Containerisation
+- What is Docker and why is it needed?
+- Image vs Container
+- Docker CLI commands
+- Docker Containerization
+- Port Mapping / Auto-port mapping
+- Multi-stage images
+- Security Practices
+- Docker Networking
+- Docker Volumes
+- Docker Compose
 
 ---
 
